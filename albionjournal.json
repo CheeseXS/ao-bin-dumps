@@ -6746,12 +6746,12 @@
                   "@name": "JOURNAL_PVE_MAPSHRINEDUNGEONS_FINISH_GROUP_03",
                   "@rewarditem": "T8_SKILLBOOK_NONTRADABLE",
                   "@difficultyrating": "1796",
-                  "@absoluteprogressmax": "5",
+                  "@absoluteprogressmax": "1",
                   "@symbol": "CLUSTER_CORRUPTED_INTERMEDIATE",
                   "@rewardamount": "1",
                   "killmob": {
                     "@countpartykills": "true",
-                    "@count": "5",
+                    "@count": "1",
                     "@requiresfinalboss": "true",
                     "IfInRandomDungeon": {
                       "@generatortype": "BOSSROOM_VETERAN"
@@ -40945,7 +40945,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_LEVEL_01",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "2",
                   "@difficultyrating": "336",
                   "@symbol": "NONE",
                   "@rewarditem": "T5_FOCUSPOTION_NONTRADABLE",
@@ -40956,7 +40956,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_OUTDOOR_FURNITURE_01",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "3",
                   "@difficultyrating": "337",
                   "@symbol": "NONE",
                   "@rewarditem": "T3_SKILLBOOK_NONTRADABLE",
@@ -40969,7 +40969,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_LEVEL_02",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "3",
                   "@difficultyrating": "721",
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
@@ -40980,7 +40980,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_OUTDOOR_FURNITURE_02",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "10",
                   "@difficultyrating": "722",
                   "@symbol": "NONE",
                   "@rewarditem": "T3_SKILLBOOK_NONTRADABLE",
@@ -40993,7 +40993,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_LEVEL_03",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "4",
                   "@difficultyrating": "1151",
                   "@symbol": "NONE",
                   "@rewarditem": "T4_SKILLBOOK_GATHER_ORE_NONTRADABLE",
@@ -41016,7 +41016,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_LEVEL_04",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "5",
                   "@difficultyrating": "1246",
                   "@symbol": "NONE",
                   "@rewarditem": "UNIQUE_FOCUSPOTION_ADC_NONTRADABLE_01",
@@ -41041,7 +41041,7 @@
                   "@name": "SA_PLAYERISLAND_MAX",
                   "@steamachievementname": "SA_PLAYERISLAND_MAX",
                   "@googleplayid": "CgkI-YfN27AEEAIQVQ",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "6",
                   "@difficultyrating": "1936",
                   "@symbol": "NONE",
                   "@rewarditem": "T5_SKILLBOOK_GATHER_ORE_NONTRADABLE",
@@ -41052,7 +41052,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_OUTDOOR_FURNITURE_03",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "30",
                   "@difficultyrating": "1937",
                   "@symbol": "NONE",
                   "@rewarditem": "T4_SKILLBOOK_NONTRADABLE",
@@ -41161,7 +41161,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_MULTIPLE_ISLANDS_01",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "2",
                   "@difficultyrating": "5302",
                   "@symbol": "NONE",
                   "@rewarditem": "T6_SKILLBOOK_GATHER_ORE_NONTRADABLE",
@@ -41312,7 +41312,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_MULTIPLE_ISLANDS_02",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "3",
                   "@difficultyrating": "5305",
                   "@symbol": "NONE",
                   "@rewarditem": "T7_SKILLBOOK_GATHER_ORE_NONTRADABLE",
@@ -41324,7 +41324,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_MULTIPLE_ISLANDS_03",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "5",
                   "@difficultyrating": "5306",
                   "@symbol": "NONE",
                   "@rewarditem": "T8_SKILLBOOK_GATHER_ORE_NONTRADABLE",
@@ -41336,7 +41336,7 @@
                 },
                 {
                   "@name": "JOURNAL_ISLAND_PERSONALISLAND_MULTIPLE_ISLANDS_04",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "7",
                   "@difficultyrating": "5307",
                   "@symbol": "NONE",
                   "@rewarditem": "T8_FOCUSPOTION_NONTRADABLE",
@@ -41388,7 +41388,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T4_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "3",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@buildingnamepart": "PLAYERHOUSE",
@@ -41401,7 +41401,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T3_SKILLBOOK_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "3",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@furniturecount": "3",
@@ -41436,7 +41436,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T5_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "4",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@buildingnamepart": "PLAYERHOUSE",
@@ -41541,7 +41541,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T5_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "5",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@buildingnamepart": "PLAYERHOUSE",
@@ -41618,7 +41618,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "6",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@buildingnamepart": "PLAYERHOUSE",
@@ -41663,7 +41663,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "7",
                   "haveislandfeatures": {
                     "@islandtype": "playerisland",
                     "@buildingnamepart": "PLAYERHOUSE",
@@ -41725,7 +41725,7 @@
                   "@name": "SA_PLAYERISLAND_BUILD_02",
                   "@steamachievementname": "SA_PLAYERISLAND_BUILD_02",
                   "@googleplayid": "CgkI-YfN27AEEAIQaA",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "8",
                   "@difficultyrating": "2664",
                   "@symbol": "NONE",
                   "@rewarditem": "T6_SKILLBOOK_GATHER_ROCK_NONTRADABLE",
@@ -42025,7 +42025,7 @@
                   "@rewarditem": "T3_SKILLBOOK_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "1"
                   }
                 },
@@ -42060,7 +42060,7 @@
                   "@rewarditem": "T4_SKILLBOOK_GATHER_FIBER_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "5000"
                   }
                 },
@@ -42084,7 +42084,7 @@
                   "@rewarditem": "T4_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "12000"
                   }
                 },
@@ -42504,7 +42504,7 @@
                   "@rewarditem": "T6_SKILLBOOK_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "100000"
                   }
                 },
@@ -42516,7 +42516,7 @@
                   "@rewarditem": "T5_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "300000"
                   }
                 },
@@ -42603,7 +42603,7 @@
                   "@rewarditem": "T8_SKILLBOOK_GATHER_FIBER_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "1000000"
                   }
                 },
@@ -42615,7 +42615,7 @@
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
                   "havefame": {
-                    "@action": "farming",
+                    "@action": "farming_crops",
                     "@value": "3000000"
                   }
                 },
@@ -42858,6 +42858,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "UNIQUE_TOKEN_COMMUNITY",
                   "@rewardamount": "10",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "3",
                     "item": [
@@ -42919,9 +42920,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -42980,6 +42978,9 @@
                       },
                       {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
+                      },
+                      {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                       },
                       {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
@@ -43121,6 +43122,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T4_SKILLBOOK_GATHER_HIDE_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "6",
                     "item": [
@@ -43182,9 +43184,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -43243,6 +43242,9 @@
                       },
                       {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
+                      },
+                      {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                       },
                       {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
@@ -43325,6 +43327,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T5_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "10",
                     "item": [
@@ -43386,9 +43389,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -43449,6 +43449,9 @@
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
                       },
                       {
@@ -43476,6 +43479,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "15",
                     "item": [
@@ -43537,9 +43541,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -43600,6 +43601,9 @@
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
                       },
                       {
@@ -43628,9 +43632,10 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_SKILLBOOK_GATHER_HIDE_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "20",
+                  "@absoluteprogressmax": "10",
+                  "@showlist": "showcompleted",
                   "farmoffspringdistinct": {
-                    "@count": "20",
+                    "@count": "10",
                     "item": [
                       {
                         "@name": "T3_FARM_CHICKEN_BABY"
@@ -43690,9 +43695,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -43753,6 +43755,9 @@
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
                       },
                       {
@@ -43768,6 +43773,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "21",
                     "item": [
@@ -43829,9 +43835,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -43892,6 +43895,9 @@
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
                       },
                       {
@@ -43920,6 +43926,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T6_FOCUSPOTION_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmoffspringdistinct": {
                     "@count": "16",
                     "item": [
@@ -43981,9 +43988,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -44042,6 +44046,9 @@
                       },
                       {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
+                      },
+                      {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                       },
                       {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
@@ -44174,6 +44181,7 @@
                   "@rewarditem": "UNIQUE_FOCUSPOTION_ADC_NONTRADABLE_01",
                   "@rewardamount": "1",
                   "@absoluteprogressmax": "28",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "28",
                     "item": [
@@ -44235,9 +44243,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -44298,6 +44303,9 @@
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
                       },
                       {
@@ -44313,6 +44321,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T4_LEARNINGPOINTS_NONTRADABLE",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmoffspringdistinct": {
                     "@count": "21",
                     "item": [
@@ -44374,9 +44383,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -44434,6 +44440,9 @@
                         "@name": "T8_FARM_OX_BABY"
                       },
                       {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
+                      },
+                      {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
                       },
                       {
@@ -44483,6 +44492,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "UNIQUE_FOCUSPOTION_ADC_NONTRADABLE_01",
                   "@rewardamount": "1",
+                  "@showlist": "showcompleted",
                   "farmraisedistinct": {
                     "@count": "35",
                     "item": [
@@ -44544,9 +44554,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -44602,6 +44609,9 @@
                       },
                       {
                         "@name": "T8_FARM_OX_BABY"
+                      },
+                      {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                       },
                       {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
@@ -44695,9 +44705,6 @@
                         "@name": "T6_FARM_DIREWOLF_BABY"
                       },
                       {
-                        "@name": "T6_FARM_GIANTSTAG_BABY"
-                      },
-                      {
                         "@name": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                       },
                       {
@@ -44756,6 +44763,9 @@
                       },
                       {
                         "@name": "T8_FARM_RABBIT_EASTER_BABY"
+                      },
+                      {
+                        "@name": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                       },
                       {
                         "@name": "T8_FARM_RAM_FW_MARTLOCK_BABY"
@@ -44844,9 +44854,6 @@
                       "@itemid": "T6_FARM_DIREWOLF_BABY"
                     },
                     {
-                      "@itemid": "T6_FARM_GIANTSTAG_BABY"
-                    },
-                    {
                       "@itemid": "T6_FARM_GIANTSTAG_MOOSE_BABY"
                     },
                     {
@@ -44905,6 +44912,9 @@
                     },
                     {
                       "@itemid": "T8_FARM_RABBIT_EASTER_BABY"
+                    },
+                    {
+                      "@itemid": "T8_FARM_RABBIT_EASTER_BABY_DARK"
                     },
                     {
                       "@itemid": "T8_FARM_RAM_FW_MARTLOCK_BABY"
@@ -48630,7 +48640,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T2_LEARNINGPOINTS_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "4",
                   "haveislandfeatures": {
                     "@islandtype": "guildisland",
                     "@buildingnamepart": "GUILDHALL",
@@ -48697,7 +48707,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "T3_LEARNINGPOINTS_NONTRADABLE",
                   "@rewardamount": "1",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "8",
                   "haveislandfeatures": {
                     "@islandtype": "guildisland",
                     "@buildingnamepart": "GUILDHALL",
@@ -48710,7 +48720,7 @@
                   "@symbol": "NONE",
                   "@rewarditem": "UNIQUE_TOKEN_COMMUNITY",
                   "@rewardamount": "5",
-                  "@absoluteprogressmax": "1",
+                  "@absoluteprogressmax": "100",
                   "haveislandfeatures": {
                     "@islandtype": "guildisland",
                     "@furniturecount": "100",
