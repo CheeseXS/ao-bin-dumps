@@ -208,7 +208,7 @@
                 "@activationtimemin": "150",
                 "@activationtimemax": "450",
                 "@positioncooldown": "60",
-                "@activationchance": "0.033357",
+                "@activationchance": "0.066714",
                 "@activityquotientactive": "true",
                 "TreasurePile": [
                   {
@@ -237,7 +237,7 @@
                 "@activationtimemin": "150",
                 "@activationtimemax": "450",
                 "@positioncooldown": "60",
-                "@activationchance": "0.033357",
+                "@activationchance": "0.066714",
                 "@activityquotientactive": "true",
                 "TreasurePile": [
                   {
@@ -266,7 +266,7 @@
                 "@activationtimemin": "150",
                 "@activationtimemax": "450",
                 "@positioncooldown": "60",
-                "@activationchance": "0.033357",
+                "@activationchance": "0.066714",
                 "@activityquotientactive": "true",
                 "TreasurePile": [
                   {
@@ -295,7 +295,7 @@
                 "@activationtimemin": "150",
                 "@activationtimemax": "450",
                 "@positioncooldown": "60",
-                "@activationchance": "0.033357",
+                "@activationchance": "0.066714",
                 "@activityquotientactive": "true",
                 "TreasurePile": [
                   {
@@ -8804,6 +8804,58 @@
           ]
         },
         {
+          "@continent": "Royal",
+          "@subtype": "CHEST",
+          "@clustertype": "OPENPVP_RED",
+          "ClusterTier": [
+            {
+              "@tier": "5",
+              "Random": {
+                "@maxslotsused": "1",
+                "@activationtimemin": "220",
+                "@activationtimemax": "660",
+                "@positioncooldown": "300",
+                "@activationchance": "0.6929",
+                "@activityquotientactive": "true",
+                "TreasureLootchest": {
+                  "@weight": "1",
+                  "@name": "DEFAULT_CHEST_SOLO"
+                }
+              }
+            },
+            {
+              "@tier": "6",
+              "Random": {
+                "@maxslotsused": "1",
+                "@activationtimemin": "220",
+                "@activationtimemax": "660",
+                "@positioncooldown": "300",
+                "@activationchance": "0.6929",
+                "@activityquotientactive": "true",
+                "TreasureLootchest": {
+                  "@weight": "1",
+                  "@name": "DEFAULT_CHEST_SOLO"
+                }
+              }
+            },
+            {
+              "@tier": "7",
+              "Random": {
+                "@maxslotsused": "1",
+                "@activationtimemin": "220",
+                "@activationtimemax": "660",
+                "@positioncooldown": "300",
+                "@activationchance": "0.6929",
+                "@activityquotientactive": "true",
+                "TreasureLootchest": {
+                  "@weight": "1",
+                  "@name": "DEFAULT_CHEST_SOLO"
+                }
+              }
+            }
+          ]
+        },
+        {
           "@continent": "Outlands",
           "@subtype": "CHEST",
           "ClusterTier": [
@@ -12664,8 +12716,8 @@
               "@clusterquality": "Q1",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12692,8 +12744,8 @@
               "@clusterquality": "Q2",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12720,8 +12772,8 @@
               "@clusterquality": "Q3",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12748,8 +12800,8 @@
               "@clusterquality": "Q4",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12776,8 +12828,8 @@
               "@clusterquality": "Q5",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12804,8 +12856,8 @@
               "@clusterquality": "Q6",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12832,8 +12884,8 @@
               "@clusterquality": "Q1",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12860,8 +12912,8 @@
               "@clusterquality": "Q2",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12888,8 +12940,8 @@
               "@clusterquality": "Q3",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12916,8 +12968,8 @@
               "@clusterquality": "Q4",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12944,8 +12996,8 @@
               "@clusterquality": "Q5",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -12972,8 +13024,8 @@
               "@clusterquality": "Q6",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13000,8 +13052,8 @@
               "@clusterquality": "Q1",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13028,8 +13080,8 @@
               "@clusterquality": "Q2",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13056,8 +13108,8 @@
               "@clusterquality": "Q3",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13084,8 +13136,8 @@
               "@clusterquality": "Q4",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13112,8 +13164,8 @@
               "@clusterquality": "Q5",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13140,8 +13192,8 @@
               "@clusterquality": "Q6",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13168,8 +13220,8 @@
               "@clusterquality": "Q1",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13196,8 +13248,8 @@
               "@clusterquality": "Q2",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13224,8 +13276,8 @@
               "@clusterquality": "Q3",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13252,8 +13304,8 @@
               "@clusterquality": "Q4",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13280,8 +13332,8 @@
               "@clusterquality": "Q5",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
@@ -13308,8 +13360,8 @@
               "@clusterquality": "Q6",
               "Random": {
                 "@maxslotsused": "1",
-                "@activationtimemin": "1700",
-                "@activationtimemax": "12700",
+                "@activationtimemin": "2250",
+                "@activationtimemax": "15750",
                 "@positioncooldown": "10",
                 "TreasureMob": [
                   {
